@@ -10,10 +10,14 @@ Variablen
 Datum: Der Tag, an dem die Daten aufgezeichnet wurden.
 
 Schrittzahl: Die Gesamtanzahl der Schritte, die pro Tag gemacht wurden.
+
 Zurückgelegte Distanz: Distanz in Metern, die täglich zurückgelegt wurde.
+
 Kalorienverbrauch: Die Anzahl der verbrannten Kalorien pro Tag.
+
 Durchschnittliche Herzfrequenz: Die durchschnittliche Herzfrequenz in Schlägen pro Minute (bpm) für jeden Tag.
+
 Datenübersicht:
-Zeitraum: 
-Anzahl der Tag:2016-2023
+Zeitraum:2016-2023
+
 Exportformat: CSV-Datei.
