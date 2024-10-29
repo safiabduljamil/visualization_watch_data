@@ -1,10 +1,14 @@
 # visualization_watch_data
 Analyse der Korrelation zwischen Schrittzahl, Distanz, Kalorienverbrauch und Herzfrequenz Forschungsfrage
+
 Frage: Gibt es eine Korrelation zwischen der täglichen Schrittzahl, zurückgelegter Distanz, Kalorienverbrauch und der durchschnittlichen Herzfrequenz?
+
 Beschreibung des Datensatzes
 Datenquelle: Apple Watch und eine Fitness-App, gesammelt 8 Jahren.
+
 Variablen
 Datum: Der Tag, an dem die Daten aufgezeichnet wurden.
+
 Schrittzahl: Die Gesamtanzahl der Schritte, die pro Tag gemacht wurden.
 Zurückgelegte Distanz: Distanz in Metern, die täglich zurückgelegt wurde.
 Kalorienverbrauch: Die Anzahl der verbrannten Kalorien pro Tag.
