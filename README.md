@@ -21,3 +21,11 @@ Datenübersicht:
 Zeitraum:2016-2023
 
 Exportformat: CSV-Datei.
+
+Abdul Jamil Safi  
+  Role: Data preprocessing, exploratory analysis, and visualization  
+  Email: safiabduljamil@gmail.com
+
+Dominik Bachmann   
+  Role: documentation, training, visualization  
+  Email: domibachmann13@gmail.com
